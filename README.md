@@ -66,3 +66,30 @@ Desenvolver um modelo de classificação que, a partir de dados inseridos por um
    python -m venv .venv
    source .venv/bin/activate  # ou .venv\Scripts\activate no Windows
    pip install -r requirements.txt
+
+
+💬 Exemplo de entrada na interface
+Idade: 28
+
+Peso: 75
+
+Altura: 1.78
+
+BPM médio: 130
+
+BPM repouso: 60
+
+Duração sessão: 1.5
+
+Frequência semanal: 6
+
+Ingestão de água: 2.5
+
+Sexo: Masculino
+
+Resultado esperado: Advanced
+
+
+
+📦 Arquivos gerados
+melhor_modelo_gym.pkl: modelo treinado com melhor desempenho

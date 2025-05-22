@@ -2,6 +2,8 @@
 
 Este projeto utiliza técnicas de machine learning para prever o **nível de experiência** (Beginner, Intermediate ou Advanced) de um membro de academia com base em características fisiológicas e hábitos de treino.
 
+Motivação da escolha do projeto: Escolhi esse dataset porque tenho grande interesse pela área de academias e treinamento físico. Embora não tenha concluído minha primeira graduação em Educação Física, sempre tive afinidade com o tema e continuo acompanhando o assunto por interesse pessoal. Essa conexão com a área motivou minha escolha por um projeto que une saúde, exercício e ciência de dados.
+
 ## 📁 Dataset
 
 O dataset utilizado é `gym_members_exercise_tracking.csv` contendo informações como:
